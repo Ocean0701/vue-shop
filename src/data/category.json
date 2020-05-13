@@ -1,0 +1,59 @@
+{
+	"success": true,
+	"code": 0,
+	"msg": "ok",
+	"data": {
+		"cate": [
+			{
+				"id": "recommend",
+				"name": "推荐"
+            },
+            {
+				"id": "58fd69dc936edf42508b43sade",
+				"name": "新品"
+            },
+            {
+				"id": "58fd69dc936edf42508b431de",
+				"name": "人气"
+			},
+			{
+				"id": "58fd69dc936edf42508b48de",
+				"name": "上衣"
+			},
+			{
+				"id": "590c1928936edf767a8daa6f",
+				"name": "裤装"
+			},
+			{
+				"id": "595edd01916edf5011ca395d",
+				"name": "鞋靴"
+			},
+			{
+				"id": "58fefa38916edf9b128b45fc",
+				"name": "包类/装备"
+			},
+			{
+				"id": "58fefb94936edf5f5d8b4767",
+				"name": "服配"
+			},
+			{
+				"id": "58ff04e6936edfc57a8b464f",
+				"name": "创意生活"
+			},
+			{
+				"id": "5ab06a0845cd42b3598bfa55",
+				"name": "有食"
+			},
+			{
+				"id": "5cd53472b0055a0b517a9d97",
+				"name": "有玩"
+			},
+			{
+				"id": "58ff04c5936edf777a8b46af",
+				"name": "个人护理"
+			}
+			
+		]
+	},
+	"server_time": 1565083674
+}
